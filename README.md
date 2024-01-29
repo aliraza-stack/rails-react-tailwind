@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<hr>
 
-[//]: # (Ruby on Rails heading with Ruby Icon not tag)
 <h1 align="center">
 <img src="https://img.icons8.com/color/30/000000/ruby-programming-language.png"/> Ruby on Rails <img src="https://img.icons8.com/color/30/000000/ruby-programming-language.png"/>
 <br>
