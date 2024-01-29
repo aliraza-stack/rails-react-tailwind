@@ -1,5 +1,10 @@
 class Api::DashboardController < ApplicationController
   def index
-    render json: { example: 'API DATA IS UPDATED' }
+    @data = {
+      "name": "Ali Raza",
+      "age": 25,
+      "profession": "Software Engineer",
+    }
+    render json: @data
   end
 end
