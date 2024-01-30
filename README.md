@@ -23,11 +23,11 @@ I am a Full Stack Developer with 3+ years of experience in developing web applic
   <a href="https://www.linkedin.com/in/aliraza-yasin/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=plastic" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/your-instagram-profile/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/its_just_aliraza/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-Follow-red?logo=instagram&style=plastic" alt="Instagram">
   </a>
-  <a href="https://twitter.com/your-twitter-handle/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&style=plastic" alt="Twitter">
+  <a href="https://github.com/aliraza-stack" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=plastic" alt="GitHub">
   </a>
 </p>
 

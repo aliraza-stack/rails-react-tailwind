@@ -24,7 +24,7 @@ server/.byebug_history
 
 # Ignore master key for decrypting credentials and more.
 server/config/master.key
-
+server/.env
 
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
@@ -42,6 +42,7 @@ client/build
 # misc
 client/.DS_Store
 client/.env.local
+client/.env
 client/.env.development.local
 client/.env.test.local
 client/.env.production.local
